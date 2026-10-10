@@ -1,8 +1,6 @@
+""" this is the module for dice"""
 def main():
-    ***
-    this is simple message 
-        
-        ***
+   """ kdgwkgdkwgd"""
     print("Hello from Dice Class!")
 
 
